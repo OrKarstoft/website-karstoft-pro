@@ -1,0 +1,23 @@
+name = "tech-blog"
+license = "GPL-3.0-only"
+licenselink = "https://github.com/orkarstoft/website-karstoft-pro/blob/master/themes/tech-blog/LICENSE"
+description = "Hugo theme designed for tech bloggers"
+homepage = "https://github.com/orkarstoft/website-karstoft-pro"
+
+# tags = ["blog", "responsive", "clean", "light", "dark", "personal"]
+
+# features = [
+#     "disqus",
+#     "photoswipe",
+#     "opengraph",
+#     "widgets",
+#     "darkmode",
+#     "table of contents",
+#     "search",
+# ]
+
+min_version = "0.87.0"
+
+[author]
+name = "Oliver Karstoft"
+homepage = "https://karstoft.pro"
